@@ -1,4 +1,4 @@
-## AutenthicationPatterns
+## AuthFlow
 
 Este projeto oferece uma implementação robusta de OAuth e padrões de autenticação modernos para garantir a segurança e fluxos de login eficientes em diversas aplicações web.
 
