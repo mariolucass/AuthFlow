@@ -19,9 +19,8 @@ Este projeto oferece uma implementação robusta de OAuth e padrões de autentic
 ### Como Usar
 
 1.  **Clone o Repositório:**
-    
     ```bash
-    git clone [https://github.com/seu-usuario/seu-projeto.git](https://github.com/seu-usuario/seu-projeto.git)
+    git clone https://github.com/mariolucass/AuthFlow.git
     ```
     
 2.  **Instale as Dependências:**
